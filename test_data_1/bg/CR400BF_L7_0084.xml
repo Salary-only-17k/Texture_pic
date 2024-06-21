@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_data1</folder>
+	<filename>CR400BF_L7_0084.jpg</filename>
+	<path>/media/cheng/code/tietu/test_data1/CR400BF_L7_0084.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>area</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>499</ymin>
+			<xmax>365</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

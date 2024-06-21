@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>301_L5_0226.jpg</filename>
+	<path>Unknown</path>
+	<source>
+		<database>img2_done</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>area_gai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>608</ymin>
+			<xmax>316</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>

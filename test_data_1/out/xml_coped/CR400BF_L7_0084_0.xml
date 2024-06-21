@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>CR400BF_L7_0084.jpg</filename>
+	<path>Unknown</path>
+	<source>
+		<database>img2_done</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>area_gai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>499</ymin>
+			<xmax>365</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

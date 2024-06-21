@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_data1</folder>
+	<filename>299_L4_0199.jpg</filename>
+	<path>/media/cheng/code/tietu/test_data1/299_L4_0199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>area</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>862</xmin>
+			<ymin>640</ymin>
+			<xmax>1037</xmax>
+			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+</annotation>

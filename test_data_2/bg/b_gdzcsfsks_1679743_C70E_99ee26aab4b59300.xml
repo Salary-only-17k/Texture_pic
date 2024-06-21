@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_data</folder>
+	<filename>b_gdzcsfsks_1679743_C70E_99ee26aab4b59300.jpg</filename>
+	<path>/media/cheng/code/tietu/test_data/b_gdzcsfsks_1679743_C70E_99ee26aab4b59300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1399</width>
+		<height>1023</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ding_area</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>416</ymin>
+			<xmax>1053</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

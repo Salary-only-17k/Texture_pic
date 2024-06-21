@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>299_L4_0199.jpg</filename>
+	<path>Unknown</path>
+	<source>
+		<database>img2_done</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>area_gai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>862</xmin>
+			<ymin>640</ymin>
+			<xmax>1037</xmax>
+			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+</annotation>

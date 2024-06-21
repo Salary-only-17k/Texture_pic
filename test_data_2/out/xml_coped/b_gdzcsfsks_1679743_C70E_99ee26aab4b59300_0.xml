@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>b_gdzcsfsks_1679743_C70E_99ee26aab4b59300.jpg</filename>
+	<path>Unknown</path>
+	<source>
+		<database>img2_done</database>
+	</source>
+	<size>
+		<width>1399</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ding_area_gai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>416</ymin>
+			<xmax>1053</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>
