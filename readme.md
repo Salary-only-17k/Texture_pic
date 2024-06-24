@@ -151,9 +151,15 @@ def test_api2(cfg):
 
 # 4 使用方法
 
-1 首先，标注数据100张，保证特征风不均匀。标注出需要填充的区域，选择的标出需要替换标签的区域；
+1 首先，标注数据100张，保证特征分布均匀。标注出需要填充的区域，以及标出需要替换标签的区域；
 
-2 丢到yolo中训练，使用训练处理的模型，对剩下的数据预标注，生成txt文件；
+2 丢到yolov5中训练.使用训练出来的模型，对剩下的数据预标注，生成txt文件(01_txt2xml.py)；
+```bash
+python detect_.py --source D:\data\cl_dir ^
+    --conf-thres 0.5 ^
+    --img 1024 --save-txt ^
+    --weights D:\yolov5_code\runs\train\same\weights\best.pt
+```
 
 3 将生成的xml文件和图像放到一个目录中，使用labelimg调节不规则框；
 
@@ -161,7 +167,7 @@ def test_api2(cfg):
 
 5 使用02_Texture_pic.py进行造图。里面有两个例子test_api(cfg)和test_api2(cfg)；
 
-6 把xml文件转为txt，进行训练。
+6 把xml文件转为txt(03_xml2txt.py)，进行训练。
 
 # 5 优势
 
